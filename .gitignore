@@ -1,5 +1,6 @@
 venv/
-.venv/
-.env
 __pycache__/
-*.pyc 
+*.pyc
+.env
+uidai.db
+.pytest_cache/
